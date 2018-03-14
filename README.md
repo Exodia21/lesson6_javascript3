@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 16, 2018
 
 ### Student Name:  
-(First and Last Name)
+Rickey Riddley
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+Input code in order to complete the photo gallery. Along with using browser object model and Document object model setup. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://exodia21.github.io/lesson6_javascript3/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. familiarize myself with the DOM setup and how it works
+2. familiarize myself with the BOM setup and how it works
+3. Unstanding the array witin coding and also learn how the value system within the array works when having a list.
